@@ -1,0 +1,5 @@
+[
+  "tests/test_spec.py::test_data_matches_runner_definitions",
+  "tests/test_spec.py::test_scenario_data_complete",
+  "tests/test_spec.py::test_scoring_constants"
+]
